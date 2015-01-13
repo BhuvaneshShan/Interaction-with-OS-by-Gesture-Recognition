@@ -1,0 +1,33 @@
+﻿  loadimg.cpp
+c:\projects\opencvtest\opencvtest\loadimg.cpp(37): warning C4244: '=' : conversion from 'double' to 'LONG', possible loss of data
+c:\projects\opencvtest\opencvtest\loadimg.cpp(38): warning C4244: '=' : conversion from 'double' to 'LONG', possible loss of data
+c:\projects\opencvtest\opencvtest\loadimg.cpp(66): warning C4244: '=' : conversion from 'double' to 'LONG', possible loss of data
+c:\projects\opencvtest\opencvtest\loadimg.cpp(67): warning C4244: '=' : conversion from 'double' to 'LONG', possible loss of data
+c:\projects\opencvtest\opencvtest\loadimg.cpp(75): warning C4244: '=' : conversion from 'double' to 'LONG', possible loss of data
+c:\projects\opencvtest\opencvtest\loadimg.cpp(76): warning C4244: '=' : conversion from 'double' to 'LONG', possible loss of data
+c:\projects\opencvtest\opencvtest\loadimg.cpp(89): warning C4244: '=' : conversion from 'double' to 'LONG', possible loss of data
+c:\projects\opencvtest\opencvtest\loadimg.cpp(90): warning C4244: '=' : conversion from 'double' to 'LONG', possible loss of data
+c:\projects\opencvtest\opencvtest\loadimg.cpp(97): warning C4244: '=' : conversion from 'double' to 'LONG', possible loss of data
+c:\projects\opencvtest\opencvtest\loadimg.cpp(98): warning C4244: '=' : conversion from 'double' to 'LONG', possible loss of data
+c:\projects\opencvtest\opencvtest\loadimg.cpp(203): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\projects\opencvtest\opencvtest\loadimg.cpp(204): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\projects\opencvtest\opencvtest\loadimg.cpp(208): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\projects\opencvtest\opencvtest\loadimg.cpp(209): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\projects\opencvtest\opencvtest\loadimg.cpp(213): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+c:\projects\opencvtest\opencvtest\loadimg.cpp(215): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\projects\opencvtest\opencvtest\loadimg.cpp(241): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\projects\opencvtest\opencvtest\loadimg.cpp(241): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\projects\opencvtest\opencvtest\loadimg.cpp(269): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\projects\opencvtest\opencvtest\loadimg.cpp(269): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\projects\opencvtest\opencvtest\loadimg.cpp(273): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\projects\opencvtest\opencvtest\loadimg.cpp(273): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\projects\opencvtest\opencvtest\loadimg.cpp(277): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\projects\opencvtest\opencvtest\loadimg.cpp(277): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\projects\opencvtest\opencvtest\loadimg.cpp(280): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\projects\opencvtest\opencvtest\loadimg.cpp(280): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\projects\opencvtest\opencvtest\loadimg.cpp(286): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\projects\opencvtest\opencvtest\loadimg.cpp(286): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\projects\opencvtest\opencvtest\loadimg.cpp(295): warning C4018: '<' : signed/unsigned mismatch
+c:\projects\opencvtest\opencvtest\loadimg.cpp(297): warning C4018: '>' : signed/unsigned mismatch
+  LINK : C:\projects\opencvtest\Debug\opencvtest.exe not found or not built by the last incremental link; performing full link
+  opencvtest.vcxproj -> C:\projects\opencvtest\Debug\opencvtest.exe
